@@ -1,107 +1,90 @@
-<!-- 🔥 Stylish GitHub Profile README -->
+# Hi! I'm Paramvinayak Singh 👾
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=35&center=true&vCenter=true&width=600&lines=Hey,+I'm+<PARAMVINAYAK SINGH>!+👋;AI/ML+Enthusiast+%7C+Web+Dev+%7C+DSA+Learner;Startup+Dreamer+%7C+Hackathon+Winner;Aspiring+GSoC+Contributor+%7C+Open+Source+Lover;Let's+Build+Something+Awesome!+🚀" />
-</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
+🚀 **Tech Maverick | AI/ML Architect | Web Dev Prodigy | 2x Hackathon Champion | Future-Ready Entrepreneur**
+
+
+
+
+
+Welcome to my digital playground! 👾 I’m a BTech CSE student on a relentless quest to transform the future with cutting-edge technologies. From AI-driven solutions to full-stack web applications, I’m building the next wave of disruptive innovations. 🔥
+
+I’m currently pioneering high-impact projects, including:
+- 🌟 **SoulBuddy** – Where Souls Meet Technology (2nd Runner-Up in Hackathon, turning AI into a spiritual companion)
+- ⚖️ **AI-Powered Legal Advisor** (Revolutionizing legal access with AI-powered consultations)
+- 💳 **AI-Driven Credit Scoring System** (A game-changer in assessing creditworthiness beyond traditional metrics)
+
+With aspirations to become a **Google Summer of Code (GSoC) contributor** and an open-source code warrior, I’m laser-focused on mastering **Data Structures & Algorithms (DSA)** and pushing the boundaries of artificial intelligence.
+
+### 🌍 I'm based in India
+
+📧 You can contact me at [singhvinayak110@gmail.com](mailto:singhvinayak110@gmail.com)
+
+### 🧠 I'm learning:
+- Supercharging my **DSA skills** to solve complex problems like a code ninja 🥷.
+- Deepening my **AI/ML** knowledge to crack the code of next-gen algorithms 🧬.
+- Exploring **full-stack web development** using **React**, **Node.js**, and **JavaScript** for next-level user experiences ⚙️.
+
+### 🤝 I'm open to collaborating on:
+- **AI & ML-driven hackathons** where we disrupt the status quo and create solutions that matter 🏆.
+- **Open-source contributions** to build a better tomorrow with shared knowledge and innovation 🌐.
+- **Tech startups** looking to scale quickly by leveraging AI and cloud-based systems 🚀.
+
+### ⚡ **2x Hackathon Champion** 🏅
+- With **SoulBuddy** as my 2nd hackathon victory project 🌟.
+- Entrepreneurial spirit with an unwavering commitment to building **AI-powered startups** 💡.
+- Always looking for ways to bridge the gap between technology and humanity, to make the world a smarter, more efficient place 🌍.
+
+---
+
+## Skills
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="Rlang" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 ---
 
-## 🧠 **About Me**
-
-- 🏫 **BTech CSE** | Passionate about **AI/ML**, **Web Development**, & **DSA**.  
-- 🚀 **AI Creator**: Built **mental health trackers**, **lawyer apps**, and **creditworthiness predictors**.  
-- 🏆 **Hackathon Achiever**: **Guinness World Record** participant, **2nd Runner-Up** out of **80 teams**.  
-- 🌐 **Startup Visionary**: Planning to launch **AI-powered mental health** & **banking solutions**.  
-- ⚙️ **Currently**: Diving into **DSA** for **Big Tech interviews** (Google, Microsoft) & **GSoC 2025**.  
-- 🔮 **Dreaming Big**: Revolutionizing industries with **AI-driven personalization**.  
-
----
-
-## 🛠️ **Tech Toolbox & Skills**
-
-### 💻 **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-
-### ⚙️ **Frameworks & Libraries**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
-![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
-
-### 🌐 **Web Development**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white)  
-
-### 🔍 **Tools & Platforms**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)  
-
----
-
-## 🚀 **Current Focus**
-
-- 🎯 **GSoC 2025**: Contributing to **AI/ML** & **Web Development** projects.  
-- 💡 **AI Banking System**: Building **loan eligibility predictors** & **personalized customer experiences**.  
-- 📚 **DSA Preparation**: Targeting **Big Tech interviews** with **C++**.  
-- 🤖 **AI Avatars**: Integrating **interactive avatars** into educational platforms.  
-
----
-
-## 🏆 **Hackathon Highlights**
-
-- 🎖️ **Guinness World Record** hackathon participant.  
-- 🥉 **2nd Runner-Up** among **80+ teams**.  
-- 🛠️ **AI Creations**:  
-  - ⚖️ **AI Lawyer App** – Legal assistance through AI.  
-  - 🧠 **Mental Health Tracker** – Personalized mental health insights.  
-  - 💳 **Creditworthiness Predictor** – AI-powered financial scoring.  
-  - 🎓 **Adaptive Learning Platform** – Custom educational experiences.  
-
----
-
-## 📊 **GitHub Insights**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<Vink-135>&show_icons=true&theme=radical&count_private=true" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<https://github.com/Vink-135/>&layout=compact&theme=radical" height="180" />
+## Socials
+<p align="left">
+    <a href="https://www.github.com/Vink-135" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </a>
+    <a href="https://www.linkedin.com/in/vinayak-singh-147047238/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </a>
 </p>
 
 ---
 
-## 🌐 **Let's Connect!**
+## Badges
 
-<p align="center">
-  <a href="https://github.com/<YOUR_GITHUB_USERNAME>" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/<https://www.linkedin.com/in/vinayak-singh-147047238/>" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:<singhvinayak110@gmail.com>" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
+**My GitHub Stats**  
+<a href="http://www.github.com/Vink-135">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vink-135&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vink-135's GitHub stats" />
+</a>
 
----
+<a href="http://www.github.com/Vink-135">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vink-135&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
 
-<h3 align="center">🔥 Building AI that matters. Learning. Creating. Growing. 💡</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" />
-</p>
+**Top Repositories**
+<a href="https://github.com/Vink-135/machine_learning" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vink-135&repo=machine_learning&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
