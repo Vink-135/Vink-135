@@ -4,6 +4,11 @@
 🚀 **Tech Maverick | AI/ML Architect | Web Dev Prodigy | 2x Hackathon Champion | Future-Ready Entrepreneur**
 
 
+![Hackathon GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFnYXJ6MG55YWxlaDRkNW0xdTkxdmNwamZ0OTExa3lxcGp1MzF0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif)  
+
+
+
+
 
 
 
